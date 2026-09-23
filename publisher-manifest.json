@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "68af4f28ef4431c1efbdb61b",
+  "owner": "huyrg2721",
+  "repo": "page-91402c9742f168f9ffbc6f5c",
+  "title": "LSP",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "91402c9742f168f9ffbc6f5c",
+      "a": "LSP",
+      "b": "机场官网线路发布页",
+      "entity": "LSP",
+      "brand": "LSP",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "68445bcdd0b04361b4e7a9ac846c3e3f6b02167d640c78a9521468b78e4e21bf",
+      "content": {
+        "primary_entity": "LSP",
+        "keyword1": "LSP",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，LSP 提供基础版、旗舰版与团队版三档订阅，月付价格从 ¥15 到 ¥85，年付可节省两个月费用。流量规格覆盖每月 100GB、300GB 与 1000GB，设备并发数分别为 3 台、5 台和 20 台。旗舰版含 IPLC 专线游戏加速优化，团队版支持企业定制路由，便于按实际用量和设备规模选择合适的方案。",
+          "AI_HERO_SUBTITLE": "按需选择，稳定连接",
+          "AI_HERO_INTRO": "LSP 面向海外加速场景提供三种订阅套餐，基础版适合个人轻量使用，旗舰版面向多设备与流媒体需求，团队版为企业与小型工作组设计。每档套餐均包含流量额度、设备并发数与节点池权限差异，用户可依据月流量和在线设备数量直接对比选择。",
+          "AI_VISUAL_TITLE": "LSP 套餐选择与配置指引",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，三档可选",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 游戏加速",
+          "AI_HIGHLIGHT_3": "团队版支持定制路由方案",
+          "AI_FEATURES_TITLE": "套餐与设备适配要点",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个维度梳理 LSP 套餐差异，帮助快速匹配使用场景。",
+          "AI_FEATURE_TITLE_1": "按流量需求选套餐",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合网页浏览与轻量视频，旗舰版 300GB 覆盖日常流媒体，团队版 1000GB 满足多人高频使用。",
+          "AI_FEATURE_TITLE_2": "核对设备并发数量",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备同时在线，旗舰版为 5 台，团队版可容纳 20 台，选择前先统计常用终端数量。",
+          "AI_FEATURE_TITLE_3": "关注计费周期",
+          "AI_FEATURE_TEXT_3": "三档套餐均提供月付与年付方式，年付价格约为月付的十个月总额，长期使用可优先考虑年付方案。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLIENTS_INTRO": "不同操作系统可选用对应的订阅客户端，安装后按客户端文档导入订阅地址即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按流量与设备数择优。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "从选择套餐到完成配置，按顺序操作即可开始使用 LSP 加速服务。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_1": "根据每月流量需求和常用设备数量，从基础版、旗舰版、团队版中选定一档并确认计费周期。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备操作系统与客户端版本满足所选套餐的设备并发限制，避免超出在线数量。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "获取订阅地址后，按照所用客户端的导入文档添加订阅，更新节点列表即可连接使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "LSP 三档套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB 流量、5 台设备并含 IPLC 专线；团队版每月 1000GB 流量、20 台设备且支持定制路由。",
+          "AI_FAQ_QUESTION_2": "一台设备可以同时使用多个客户端吗？",
+          "AI_FAQ_ANSWER_2": "设备并发数按在线终端计算，同一设备上安装多个客户端通常只占用一个终端名额，但具体以客户端连接状态为准。",
+          "AI_FAQ_QUESTION_3": "年付和月付的差价有多大？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150 相当于十个月月付费用，旗舰版年付 ¥350、团队版年付 ¥850 同样按十个月总额计算，长期使用更划算。",
+          "AI_FAQ_QUESTION_4": "升级套餐后流量和设备数会立即变化吗？",
+          "AI_FAQ_ANSWER_4": "套餐变更后新的流量额度与设备并发数一般随订阅周期生效，建议在续费节点进行升级以减少浪费。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供每月 1000GB 流量和 20 台设备并发，适合小型工作室、远程协作团队或需要定制路由规则的企业用户。",
+          "AI_CLOSING_TITLE": "选对套餐，稳定加速",
+          "AI_CLOSING_TEXT": "根据流量和设备数选定套餐，按客户端文档导入订阅即可开始使用 LSP。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zacac.cn",
+    "host": "zacac.cn"
+  },
+  "file_hashes": {
+    "index.html": "71da66ae40a8425d982efeebe4618a823e261ba5c85ab066025ff0f60af5f66a",
+    "sitemap.xml": "a8c10b1b93fee941332f919a02730d54f9e9981e0afb10f4b8418517f9ab8193",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f8f9007076961ca26f897f5870d447a91613219db0aab11113b42b9bc43391d0",
+    "robots.txt": "f69484db91e1554362e1abd93b8c1a3c20f1a8b138b347cb49c2e74f3ca2cdee",
+    "f0efe7e11498decc8a50c18eadedaef5.txt": "d725974fe06d05619fb45b5e7ab8a31825220ee39ada51f83f630d18c6f53de8"
+  },
+  "revision": "5aea766b7924c9f650e4a0e57f9acfa3b7829a089ead2c88b077292fc28cd3ed"
+}

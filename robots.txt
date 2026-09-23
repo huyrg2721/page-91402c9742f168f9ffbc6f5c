@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zacac.cn/sitemap.xml
